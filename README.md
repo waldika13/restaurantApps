@@ -22,6 +22,6 @@ Start project using Webpack Production
 
 Start project using Webpack Development
 ```bash
-> npm run build
+> npm run start-dev
 ```
 
