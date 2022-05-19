@@ -1,4 +1,4 @@
-# Submission Katalog Restoran Kelas Menjadi Front-End Web Developer Expert
+# Submission 1 Katalog Restoran Kelas Menjadi Front-End Web Developer Expert
 
 ## Clone this project
 
